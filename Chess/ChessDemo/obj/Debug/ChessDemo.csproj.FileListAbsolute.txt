@@ -1,0 +1,8 @@
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\bin\Debug\ChessDemo.exe.config
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\obj\Debug\ChessDemo.csprojResolveAssemblyReference.cache
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\bin\Debug\ChessDemo.exe
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\bin\Debug\ChessDemo.pdb
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\bin\Debug\Chess.dll
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\bin\Debug\Chess.pdb
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\obj\Debug\ChessDemo.exe
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\obj\Debug\ChessDemo.pdb

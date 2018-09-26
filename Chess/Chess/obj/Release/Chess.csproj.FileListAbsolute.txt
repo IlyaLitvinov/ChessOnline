@@ -1,0 +1,4 @@
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\bin\Release\Chess.dll
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\bin\Release\Chess.pdb
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\obj\Release\Chess.dll
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\obj\Release\Chess.pdb

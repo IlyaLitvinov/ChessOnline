@@ -1,0 +1,5 @@
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\bin\Debug\Chess.dll
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\bin\Debug\Chess.pdb
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\obj\Debug\Chess.dll
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\Chess\obj\Debug\Chess.pdb

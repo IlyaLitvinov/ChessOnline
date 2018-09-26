@@ -1,0 +1,2 @@
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\bin\Release\ChessDemo.exe.config
+D:\Users\Илья\Documents\Visual Studio 2012\Projects\Chess\ChessDemo\obj\Release\ChessDemo.csprojResolveAssemblyReference.cache
